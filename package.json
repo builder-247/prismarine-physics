@@ -30,7 +30,7 @@
   "devDependencies": {
     "jest": "^27.0.4",
     "prismarine-block": "^1.7.3",
-    "standard": "^16.0.3",
+    "standard": "^17.0.0",
     "prismarine-physics": "file:./"
   },
   "dependencies": {
